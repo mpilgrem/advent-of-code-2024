@@ -1,2 +1,5 @@
 # Haskell Tool Stack-related
 .stack-work/
+
+# Advent of Code-related
+input*
